@@ -1,0 +1,19 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/graphql_ppx/ppx
+FLG -ppx '/Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/bs-platform/lib/reactjs_jsx_ppx_2.exe'
+FLG -ppx /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/bs-platform/lib/bsppx.exe
+S /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/bs-platform/lib/ocaml
+B /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -no-alias-deps -color always
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/reason-react/lib/ocaml
+B /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/reason-react/lib/ocaml
+S /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/reason-apollo/lib/ocaml
+B /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/reason-apollo/lib/ocaml
+S /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/bs-react-native/lib/ocaml
+B /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/bs-react-native/lib/ocaml
+S /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/bs-reform/lib/ocaml
+B /Users/gabrielr.abreu/projects/personal/ProductCart/node_modules/bs-reform/lib/ocaml
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}

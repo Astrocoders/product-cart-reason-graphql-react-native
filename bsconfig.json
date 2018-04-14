@@ -1,0 +1,22 @@
+{
+  "name": "productCart",
+  "sources": [
+    {
+      "dir": "src"
+    }
+  ],
+  "bs-dependencies": ["reason-react", "reason-apollo", "bs-react-native", "bs-reform"],
+  "bsc-flags": ["-bs-super-errors"],
+  "ppx-flags": ["graphql_ppx/ppx"],  
+  "reason": {
+    "react-jsx": 2
+  },
+  "refmt": 3,
+  "package-specs": [
+    {
+      "module": "commonjs",
+      "in-source": true
+    }
+  ],
+  "suffix": ".bs.js"
+}
